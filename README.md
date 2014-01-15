@@ -1,4 +1,4 @@
 mihcall.github.io
 =================
 
-My Page
+Octopress blog
