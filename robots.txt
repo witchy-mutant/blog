@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://mihcall.github.io/sitemap.xml 
