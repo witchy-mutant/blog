@@ -1,7 +1,0 @@
----
-layout: post
-title: "ABB DevDay 2011"
-date: 2011-08-16 12:00:00 +0100
-comments: true
-categories: 
----
