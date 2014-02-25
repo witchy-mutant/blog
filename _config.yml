@@ -1,4 +1,4 @@
-name: "If (notNow) { return when(); }" 
+name: "If (NotNow) { return when(); }" 
 markdown: redcarpet
 pygments: true
 encoding: "utf-8"
