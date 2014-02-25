@@ -2,3 +2,4 @@ name: "If (NotNow) { return when(); }"
 markdown: redcarpet
 pygments: true
 encoding: "utf-8"
+permalink: /:year/:month/:day/:title.html
