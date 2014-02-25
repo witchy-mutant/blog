@@ -1,0 +1,26 @@
+---
+layout: post
+title: 	"ABB DevDay 2011"
+date: 	2011-09-16 08:00:00
+categories: devday conference abb
+---
+
+It's not even a whole month to [ABB DevDay](http://devday.pl) - free developer's conference held in Kraków by ABB.
+
+Being an organizer together with [rafek](http://twitter.com/rafek) means still a lot of work ahead. I don't complain, it's as satisfactory and fun as it's time-consuming. And we're working hard to bring you really high quality event that you will benefit from.
+
+Let me repeat who will be speaking:
+
+  * [Szymon Pobiega](http://twitter.com/SzymonPobiega)
+  * [Michał Brzozowski](http://twitter.com/brzozow)
+  * [Paweł Brodziński](http://twitter.com/pawelbrodzinski)
+  * [Rob Ashton](http://twitter.com/robashton)
+  * [Tiberiu Covaci](http://twitter.com/tibor19)
+
+You had an opportunity to see those guys at NDC, TechEd, OreDev, Lean Kanban, DDD, MTS, SDC... They've been here and there. If you haven't met them in person, had not a conversation about real-life problems - at ABB Dev Day we aim to fulfil this need.
+
+A lot of people registered, another round of confirmation from your side will be needed. I hope we can fit in the space we have available.
+
+I am looking forward to see you in Kraków on 14th of October. I am sure we can bring **passion** and **knowledge** with us and spread it.
+
+And what's even more important - have **fun** while doing it!
