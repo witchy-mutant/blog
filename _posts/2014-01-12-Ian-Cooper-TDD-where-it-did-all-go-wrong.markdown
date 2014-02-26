@@ -14,4 +14,4 @@ First of all - it goes directly to the source of all possible misunderstandings 
 
 He also makes a point that some of the problems of TDD are just problems of TDD abuse. While it may or may not be true - gives another perspective on tendency of dropping TDD, sometimes by former TDD enthusiasts. Reading [Sebastien Lambla](https://twitter.com/serialseb)'s ["Unit testing is out, Vertical Slice Testing is in"](http://codebetter.com/sebastienlambla/2013/07/11/unit-testing-is-out-vertical-slice-testing-is-in) I wonder how could we give TDD another round of trust and make it really work. Possibly - not by banging a leg harder when it hurts but using some treatment for it.
 
-Well, I'd gladly get to know your opinion whether TDD went wrong and if it can be revived. I'm full of hope after watching Ian's talk. Lot of motivation to start learning TDD from the scratch again!
+Well, I'm really interested whether TDD went wrong and if it can be revived. I'm full of hope after watching Ian's talk. Lot of motivation to start learning TDD from the scratch again!

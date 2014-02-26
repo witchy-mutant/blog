@@ -1,5 +1,16 @@
 name: "If (NotNow) { return when(); }" 
-markdown: redcarpet
+author: mihcall
+fullname: Michał Śliwoń
+markdown: rdiscount
 pygments: true
 encoding: "utf-8"
 permalink: /:year/:month/:day/:title.html
+
+rdiscount:
+  extensions: [smart]
+
+url: http://blog.mihcall.com
+description: My blog
+twitter: mihcall
+github: mihcall
+gravatar_url: http://www.gravatar.com/avatar/4fb1ca49c9dca9afe96bec2be2a28aa9
