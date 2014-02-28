@@ -2,7 +2,7 @@
 layout: post
 title: 	"ABB DevDay 2011 - Podsumowanie"
 date: 	2011-11-03 08:00:00
-categories: devday conference abb
+tags: [devday, conference, abb]
 ---
 14 października 2011 roku w Hotelu Andel's w Krakowie odbyła się konferencja ABB Dev Day 2011, którą organizowałem wspólnie z [Rafałem](http://twitter.com/rafek).
 Na oficjalnej stronie ISDC możecie przeczytać szczegółową [relację z wydarzenia](http://www.abb.pl/cawp/seitp202/926311f89e9ce125c125793000411540.aspx). Z kolei na naszym kanale YouTube znajduje się [film podsumowujący konferencję](http://www.youtube.com/watch?v=KAtOFLC0m48%C2%A0).

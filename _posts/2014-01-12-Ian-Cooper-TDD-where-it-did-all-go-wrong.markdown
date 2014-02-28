@@ -2,7 +2,7 @@
 layout: post
 title: 	Ian Cooper - "TDD, where it did all go wrong"
 date: 	2014-01-12 08:00:00
-categories: ndc talks tdd videos
+tags: [ndc, talks, tdd, videos]
 ---
 Many of us, developers, had some problems in applying TDD in our projects. We might have misunderstood something from original idea ending up with big test suites hard to maintain, hard to keep passing whenever we make change to the software, giving us headache instead of harness. Or maybe it's all TDD's fault giving us false hope of improving our code quality making only "overhead" in the project so hated by our managers.
 

@@ -2,7 +2,7 @@
 layout: post
 title: 	"Øredev 2013 - inspirational conference"
 date: 	2013-11-10 08:00:00
-categories: Øredev conference
+tags: [Øredev, conference]
 ---
 What makes an event particularly excellent? If it's community driven, non-profit and focus on people. [Øredev](http://oredev.org/) still has it all.
 

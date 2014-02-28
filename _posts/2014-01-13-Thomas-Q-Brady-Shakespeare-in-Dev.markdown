@@ -2,7 +2,7 @@
 layout: post
 title: 	Thomas Q. Brady - "Shakespeare in Dev"
 date: 	2014-01-13 08:00:00
-categories: Øredev talks ux videos
+tags: [Øredev, talks, ux, videos]
 ---
 This is by far my favourite talk from Øredev 2013. [Thomas Q. Brady](https://twitter.com/thomasqbrady) in his ["Shakespeare in Dev"](http://vimeo.com/78895479) changes the way I think about designers, design technologists, User Experience in general. After revelation that guys dealing with UX gave me in my current job - this talk finally nailed it.
 

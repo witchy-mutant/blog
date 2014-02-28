@@ -2,7 +2,7 @@
 layout: post
 title: 	"RavenDB Talks"
 date: 	2011-12-30 08:00:00
-categories: ravendb talks
+tags: [ravendb, talks]
 ---
 I'd like to invite you to my RavenDB/NoSQL talks:
 

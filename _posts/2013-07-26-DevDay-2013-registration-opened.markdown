@@ -2,7 +2,7 @@
 layout: post
 title: 	"DevDay 2013 - registration opened"
 date: 	2013-07-26 08:00:00
-categories: devday conference 
+tags: [devday, conference]
 ---
 DevDay, software developers conference held in Kraków which I co-organize for three years now, will happen 20th of September 2013. We just opened [registration](http://devday.pl/register). Conference is free of charge but there's limited number of seats so we ask everyone to fill in the form quite similar to TEDx conferences. All videos will be available online after the conference, as well.
 

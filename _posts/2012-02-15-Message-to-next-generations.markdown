@@ -2,7 +2,7 @@
 layout: post
 title: 	"Message to next generations"
 date: 	2012-02-15 08:00:00
-categories: best-practices comments
+tags: [best-practices, comments]
 ---
 Ever wondered how to leave a message to next generations? It's dead simple. You simply put a nice "todo" comment in the code. I can guarantee you'll never return to this place again. You'll never have to. It will be left to next generations. That's at least what's happening in the corpo world.
 

@@ -2,7 +2,7 @@
 layout: post
 title: 	"NDC 2013 was a great conference"
 date: 	2013-07-24 08:00:00
-categories: conference ndc videos
+tags: [conference, ndc, videos]
 ---
 This was my first time at NDC this year but I can tell you - it's a great conference. 8 tracks, lot of brilliant speakers (just look at [agenda](http://ndc2013.oktaset.com/Agenda)), atmosphere was fantastic, organization was excellent (did you hear a term - Continuous Food?). Don't you believe? 
 
