@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Making iPhone a Dumb Phone"
+title: Making iPhone a Dumb Phone
 date: 2014-05-10 14:40
 tags: [iPhone, no-distractions, dumbphone]
 ---

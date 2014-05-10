@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to open a new office."
+title: How to open a new office.
 date: 2014-02-28 21:00
 tags: [stackexchange, new-office, networking, opening party]
 ---
