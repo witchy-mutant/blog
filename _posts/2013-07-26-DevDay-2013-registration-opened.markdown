@@ -10,14 +10,14 @@ DevDay, software developers conference held in Kraków which I co-organize for t
 
 This year on our speakers list we have:
 
-  * [Marco Cecconi] (https://twitter.com/sklivvz) (StackOverflow)
-  * [Dariusz Dziuk] (https://twitter.com/dariuszdziuk) (Spotify)
-  * [Dino Esposito] (https://twitter.com/despos) (e-tennis.net)
-  * [Ben Hall] (https://twitter.com/Ben_Hall) (Cornershop)
-  * [Andreas Håkansson] (https://twitter.com/TheCodeJunkie) (tretton37)
-  * [Patrick Kua ] (https://twitter.com/patkua) (ThoughtWorks)
-  * [Jon Skeet] (https://twitter.com/jonskeet) (Google)
-  * [Itamar Syn-Hershko] (https://twitter.com/synhershko) (Buzzilla)
+  * [Marco Cecconi](https://twitter.com/sklivvz) (StackOverflow)
+  * [Dariusz Dziuk](https://twitter.com/dariuszdziuk) (Spotify)
+  * [Dino Esposito](https://twitter.com/despos) (e-tennis.net)
+  * [Ben Hall](https://twitter.com/Ben_Hall) (Cornershop)
+  * [Andreas Håkansson](https://twitter.com/TheCodeJunkie) (tretton37)
+  * [Patrick Kua ](https://twitter.com/patkua) (ThoughtWorks)
+  * [Jon Skeet](https://twitter.com/jonskeet) (Google)
+  * [Itamar Syn-Hershko](https://twitter.com/synhershko) (Buzzilla)
 
 but it's not all - we still have few people to announce.
 

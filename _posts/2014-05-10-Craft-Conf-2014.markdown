@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Craft Conf 2014 - Software Craftsmanship Conference in Budapest"
+date: 2014-05-10 19:00
+tags: [conference, craft-conf]
+---
+[Craft Conf 2014](http://craft-conf.com/2014/) was a conference in Budapest held for two days with one additional day for workshops. List of [speakers](http://craft-conf.com/2014/#speakers) was impressive. I was pretty excited before the conference to see all those great people. 
+
+Conferences are about sessions and people. So let me mention first of all that we had a fun time there with people from Poland, England, Romania, Lithuania and of course Hungary. Really nice mix of already known friends and newly met people. I'd like to mention three guys that I had pleasure of meeting there: [Andrzej Krzywda](http://twitter.com/andrzejkrzywda), [Wojtek Erbetowski](https://twitter.com/erbetowski) and [Jarek Potiuk](https://twitter.com/higrys). You should definitely follow them and if you have a chance to talk to them in person - treat yourself and do it.
+
+When it comes to the conference itself I attended [Dan North's](https://twitter.com/tastapod) workshop "Accelerated Agile" on the first day. Couldn't imagine normal Agile training with a great mind like Dan North and it wasn't normal for sure. It consisted of great insights and allowed me to understand and actually question Agile I knew. Workshop is highly interactive and we had a pleasure of having [Bruce Eckel](https://twitter.com/BruceEckel) for the first part of it - added a lot of value during discussions.
+
+Sessions the day after didn't start very well cause I couldn't stand first 40 minutes of sponsors session just right at the start of the conference. Gojko Adzic helped the conference to really kick off with [How I Learned to Stop Worrying and Love Flexible Scope](http://www.ustream.tv/recorded/46772902). I really liked his story about Vaasa ship in analogy to changing scope. 
+
+Later in a day was a time for [Dan North](https://twitter.com/tastapod) once again, who is an excellent speaker, capable of telling stories which is rare talent among technical speakers but adds so much to the talk. I highly recommend his: [Jackstones: the journey to mastery](http://www.ustream.tv/recorded/46968772).
+
+Second day started with [Chad Fowler's](https://twitter.com/chadfowler) talk titled [McDonalds, Six Sigma, and Offshore Outsourcing: Unexpected Sources of Insight](http://www.ustream.tv/recorded/46744747). This was a good choice for an opening keynote as Chad is another speaker who can tell a story in both entertaining and engaging way.
+
+I ended conference with another good talk from [Greg Young](https://twitter.com/gregyoung). Greg was talking about Polyglot data and why every database on Earth sucks. Can't tell how much I appreciate Greg's pragmatic approach in this matter. His talk can be viewed here: [Polyglot Data](http://www.ustream.tv/recorded/46673907).
+
+Nice idea by organizers to do couple of meetups before the conference. I attended DevOps meeting featuring [Paul Stack](http://twitter.com/stack72) and, guess who, [Dan North](http://twitter.com/tastapod). Once again - good sessions and lot of valuable insights. I liked Prezi place in Budapest, too. Nice office!
+
+Overall it was a good conference, but not as impressive as I thought it will be looking only at speaker's list.
+It's not expensive though so I will definitely consider coming next year.
