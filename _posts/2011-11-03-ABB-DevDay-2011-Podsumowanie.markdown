@@ -19,15 +19,15 @@ Jeśli przytoczyć twittera, to konferencja otrzymała bardzo pozytywne komentar
 
   * [Rob Ashton](http://twitter.com/#!/RobAshton/statuses/124988990871965697)
   * [Michał Franc](http://twitter.com/#!/francmichal/statuses/124940071832002560)
-  * [Szymon Pobiega] (http://twitter.com/#!/SzymonPobiega/statuses/125125188332425216)
-  * [Paweł Brodziński] (http://twitter.com/#!/pawelbrodzinski/statuses/125279436567351296)
-  * [Bartosz Różański] (http://twitter.com/#!/barozanski/statuses/125608423613136896)
-  * [Filip Zawada] (http://twitter.com/#!/fzawada/statuses/125491047852810240)
-  * [Marek Stój] (http://twitter.com/#!/MarekStoj/statuses/125176833137319936)
-  * [Bartosz Różański] (http://twitter.com/#!/barozanski/statuses/125280217911668736)
-  * [Paweł Madurski] (http://twitter.com/#!/PawelMadurski/statuses/125222134644609024)
-  * [Tomasz Famulski] (http://twitter.com/#!/tomaszf/statuses/124957551887523840)
-  * [Mateusz Sidorski] (http://twitter.com/#!/MattNomatter/statuses/124932322083610625)
+  * [Szymon Pobiega](http://twitter.com/#!/SzymonPobiega/statuses/125125188332425216)
+  * [Paweł Brodziński](http://twitter.com/#!/pawelbrodzinski/statuses/125279436567351296)
+  * [Bartosz Różański](http://twitter.com/#!/barozanski/statuses/125608423613136896)
+  * [Filip Zawada](http://twitter.com/#!/fzawada/statuses/125491047852810240)
+  * [Marek Stój](http://twitter.com/#!/MarekStoj/statuses/125176833137319936)
+  * [Bartosz Różański](http://twitter.com/#!/barozanski/statuses/125280217911668736)
+  * [Paweł Madurski](http://twitter.com/#!/PawelMadurski/statuses/125222134644609024)
+  * [Tomasz Famulski](http://twitter.com/#!/tomaszf/statuses/124957551887523840)
+  * [Mateusz Sidorski](http://twitter.com/#!/MattNomatter/statuses/124932322083610625)
  
 Ciekawe podsumowania można znaleźć także na blogach:
 
