@@ -77,6 +77,9 @@ I mentioned lot of external distractions but there are as much internal ones, no
 
 And if you're curious what's happening on your favourite social media site - well, there are some techniques to get rid of this twitch, too.
 
+### Notifications
+Maybe the most important ingridient to the above is that all my notifications are switched off. E-mail, Twitter, Text Messages, [phone](/2014/05/10/Making-iPhone-a-Dumb-Phone/), everything. This really allows asynchronous style of communication to take its advantage. I can focus on what I'm doing at the moment. I can go deeply into **my flow**.
+
 ### Whatever works for you
 I know that this can be specifics of what I currently do but I'd like my environment to be supporting asynchronousity even more. Unfortunately distractions kill my productivity and I guess it's not only me...
 
