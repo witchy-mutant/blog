@@ -34,4 +34,4 @@ When I'm alone I can slow down and enjoy the moment instead of looking up what's
 Do I miss anything important - oh no. I still use computer and can catch-up with everything important quite quickly. And actually - there will always be something you'll miss. Important thing is to accept it and let it go.
 
 It's a totally stress-free setup which I recommend.
-It's also totally in line with asynchronous communication style which I prefer at work. I'll write about it next time.
+It's also totally in line with [asynchronous communication style which I prefer at work](/2014/05/11/Asynchronous-communication-at-work/).
