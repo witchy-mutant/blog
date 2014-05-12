@@ -6,7 +6,7 @@ tags: [angularjs, react, javascript]
 ---
 AngularJS is great but it has some [confusing parts](http://codeofrob.com/entries/you-have-ruined-javascript.html). On the other hand [React](http://facebook.github.io/react) is getting more and more attention. 
 
-Talking to [Hadi](http://twitter.com/hadihariri) we agreed that we have to rewrite our AngularJS applications to React as it's the latest and shinest of all things apparently.
+Talking to [Hadi](http://twitter.com/hhariri) we agreed that we have to rewrite our AngularJS applications to React as it's the latest and shinest of all things apparently.
 
 ---
 ### TL;DR
