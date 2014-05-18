@@ -47,6 +47,7 @@ All of a sudden you're not so exposed to your own excuses. Have you seen [Warhaw
   * sleeping? not so needed as you would think
   * family? they'll understand and you can rearrange things together
   * building a house - sorry, there's no help for you, you simply don't have time :)
+
 Yeah, that means sacrificying a lot from time to time. But you realize that after the fact, you're totally in get-this-thing-going mode that you really don't care if you slept or ate.
 
 ### No failures
