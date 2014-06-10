@@ -26,7 +26,7 @@ But let me at least recommend you couple of sessions I've already watched:
 
   * Paul Stack - ["Docker is the future of shipping our code"](http://vimeo.com/97415348)
 
-	  Paul is DevOps extremist and I can't imagine him not playing with latest innovation in the field - containers on steroids - Docker. Developed by [HashiCorp](http://www.hashicorp.com/) in Go - it makes you a promise of your apps deployed seemlessly to Testing, QA and Prod environments. Paul explains basics of Docker and scenarios it can be used for. Watch it to understand what Docker can do for you.
+	  Paul is DevOps extremist and I can't imagine him not playing with latest innovation in the field - containers on steroids - Docker. It makes you a promise of your apps deployed seemlessly to Testing, QA and Prod environments. Paul explains basics of Docker and scenarios it can be used for. Watch it to understand what Docker can do for you.
 
   * Scott Hanselman - ["How C# Saved my Marriage, Enhanced my Career and Made Me an Inch Taller"](http://vimeo.com/97349222)
 
