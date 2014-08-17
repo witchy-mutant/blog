@@ -2,7 +2,7 @@
 layout: post
 title: "Asynchronous communication at work"
 date: 2014-05-11 21:20
-tags: [work, asynchronous-communication]
+tags: [work, asynchronous-communication, scrcrw]
 ---
 Asynchronous way of communication means you receive information from different sources but you check them at your convenience. They are not blocking you nor you have to process them at the time of arrival. In other words - they're not distracting.
 
