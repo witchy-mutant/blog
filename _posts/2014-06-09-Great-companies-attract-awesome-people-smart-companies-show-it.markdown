@@ -3,6 +3,7 @@ layout: post
 title: "Great companies attract awesome people, smart companies show it."
 date: 2014-06-09 22:50
 tags: [company, speakers]
+categories: [scrcrw]
 
 ---
 
