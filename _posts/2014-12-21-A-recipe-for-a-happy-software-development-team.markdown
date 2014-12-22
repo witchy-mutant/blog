@@ -102,34 +102,34 @@ We started using feedback extensively after internal training sessions we had at
 Practices & Small Habits
 ---
 
-We have couple of practices & small habits which we're trying to cultivate because they either bring joy or remove friction in the team.
+We have a few practices & small habits which we're trying to cultivate because they either bring joy or remove friction in the team.
 
-We are fans of **async standups** as explained by [Andrzej Krzywda](https://twitter.com/andrzejkrzywda) in his [blog post](http://andrzejonsoftware.blogspot.com/2014/05/async-standups.html). We use [HipChat](http://hipchat.com/) for this and for other daily communication. We have separate rooms for #standups, #rsvp (where we simply ask for some opinion/help), #resources (for sharing interesting stuff), #feedback (for asking and giving feedback - yes!), #nsfw (which is actually the most boring one) and couple of others.
+We are fans of **async standups** as explained by [Andrzej Krzywda](https://twitter.com/andrzejkrzywda) in his [blog post](http://andrzejonsoftware.blogspot.com/2014/05/async-standups.html). We use [HipChat](http://hipchat.com/) for this and for other daily communication. We have separate rooms for #standups, #rsvp (where we simply ask for opinion/help), #resources (for sharing interesting stuff), #feedback (for asking and giving feedback - yes!), #nsfw (which is actually the most boring one) and a couple of others.
 
-This means we can read what people are or were working on even if we're working from home, different location or catching up after vacation. We don't do it at the same time so everyone can choose *his* time when not *in the flow*. And written form can provide benefits of structuring thoughts in a better way.
+This means we can read what people are/were working on even if we're working from home, different location or catching up after vacation. We don't do it at the same time so everyone can choose *his* time when not *in the flow*. Additionally, written form provides benefits of structuring our thoughts in a better way.
 
-*No, this does not mean we're not talking to each other - we talk a lot in a synchronous way but we mix it with asynchronous communication as well.*
+*No, this does not mean we're not talking to each other - we talk a lot in a synchronous way but we mix it with asynchronous communication where appropriate.*
 
-Every now and then we have **video lunch** - we simply watch videos from conferences after or during a lunch. Important part is that we can discuss what has been presented with other members of the team - this is definitely added value over watching videos alone.
+Every now and then we have a **video lunch** - we simply watch videos from conferences after or during lunch. The important part is that we can discuss the session with other members of the team - this is definitely added value over watching videos alone.
 
-We started **Friday-treat-yourself** initiative - one person of the team is preparing something to eat for the rest of the team. Now *that* is nice - having sushi prepared by a member of the team - having a tart prepared by (fiancé of) other member of the team - perfect!
+We started **Friday-treat-yourself** initiative - one person of the team is preparing something to eat for the rest of the team. Now *that* is nice - having sushi prepared by one team member or a tart prepared by (fiancé of) another one - perfect!
 
-In our room there is **Sound System** with its own playlist which plays music we selected for together coding. Recently we've been obliged by other teams to play Metallica on Fridays - can be done. Yes, this makes us happier as well.
+We've recently set up a **Sound System** in our room. We have also collaboratively created a playlist of music we listen to while coding. Recently we've been obliged by other teams to play Metallica on Fridays - can be done. Yes, this makes us happier as well.
 
-We also try to go together for a lunch quite often. There is one *hip* place - simply a [milk bar](http://en.wikipedia.org/wiki/Bar_mleczny) called Teofilanka with reasonably good food. Going there (it's couple of minutes walk) and sitting there together - this can have a really nice effect on a team. And you won't guess what they serve on Wednesdays as a dessert...
+We also try take lunch together as often as possible. There is one *hip* place near our office - a [milk bar](http://en.wikipedia.org/wiki/Bar_mleczny) called Teofilanka with reasonably good food. Going there (it's about a five minute walk) and sitting there together has a really nice effect on a team. And you won't guess what they serve on Wednesdays for dessert...
 
-We didn't go out together that often just because it's harder to find a suitable date for 6 people but we've been going out in smaller groups couple of times and I think I don't have to convince you that this is a great way to get to know each other and build another level of relationship in a team.
+We aren't going out together that often just because it's difficult to find a suitable time for 6 people. However, we've been going out in smaller groups a few times and I don't think I have to convince you that this is a great way to get to know each other and build another level of relationship in a team.
 
 Future ideas
 ---
 
-We have couple of other ideas which can make us even more happy.
+We have a couple of other ideas which can make us even more happy.
 
-**Lazy Monday** is kind of home office for everyone - Monday could be the best because it's harder to come to work after nicely spent weekend.
+**Lazy Mondays** is kind of home office for everyone - Monday could be the best because it's harder to come to work after a nicely spent weekend.
 
 **Developer Day** is an idea to dedicate one day, let's say - a month, to learn new things and present it the same day to other members of the team. I've seen similar idea in our organization in the past but this time I think it can actually work.
 
-**MVP of the Sprint** - idea to highlight someone's special contribution to the sprint. You can imagine that there are many ways of giving a prize to such person. It has to come from the team though.
+**MVP of the Sprint** - an idea to highlight someone's special contribution to the sprint. You can imagine that there are many ways of giving praise to such a person. It has to come from the team though.
 
 There are of course things not necessarily dependent on us but nice to have like **shower** in the office (for bikers mostly) and **sleeping** space to have power-nap during a day. This would definitely make us even more happy. But I would put those quite high on Maslow's Hierarchy of Programmers Needs therefore not needed so badly.
 
@@ -147,7 +147,7 @@ Who are *we* by the way? Go and check yourself those great guys I love working w
 * [Marcin "Biegał" Biegała](http://twitter.com/biegal)
 * [Maciej "Iskeld" Woźniak](http://twitter.com/eldsharp)
 
-Being a part of this team is like a dream coming true. I always felt better as a part of a bigger group sharing same interests if not values. If you happen to be a part of a team - enjoy this moment, enjoy every minute spent on discussing common problem - you may find yourself alone with a problem in the future and you're going to miss those people wanting to help you.
+Being a part of this team is a dream come true. I always felt better as a part of a bigger group sharing same interests if not values. If you happen to be a part of a team - enjoy this moment, enjoy every minute spent on discussing common problems - you may find yourself alone with a problem in the future and you're going to miss those people wanting to help you.
 
 Enjoy your team and use plenty of ideas out there to have fun and learn at the same time! Good luck with implementing them!
 
