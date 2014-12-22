@@ -81,23 +81,23 @@ Not only Agile methodologies kind of worked for us when it comes to project work
 Feedback
 ---
 
-This one is embedded into the culture of the team and helped us the most I think. We have been giving, receiving humbly and asking for a feedback almost every day - may it be sprint we've ended, code we've written, presentation we had prepared or conducted or just the way we work and cooperate with other people. It all was always an opportunity to exchange feedback with others.
+This one is embedded into the culture of the team and helped us the most I think. We are giving, humbly receiving and asking for feedback almost every day - be it about the sprint we finished, code we written, presentation we prepared or conducted or just about the way we work and cooperate with other people. Anything we do, we look for opportunities to exchange feedback with others.
 
 In a more structured way we use it for:
 
 * code reviews
 
-	Sometimes we have couple of code reviews a day touching different parts of the system, various tasks and code snippets. Simply everyone from the team is involved in either having his code reviewed or reviewing somebody else's code - mostly - both at the same time. That gave us more confidence in a quality of code we're producing but also had amazing team building effect - oftentimes we were complimenting somebody's work - what a motivational effect!
+	Sometimes we have couple of code reviews a day touching different parts of the system, various tasks and code snippets. Everyone from the team is involved in either having his code reviewed or reviewing somebody else's code, often at the same time. That gave us more confidence in the quality of our code but also had an amazing team building effect - oftentimes we were complimenting somebody's work - what a motivational effect!
 
 * design reviews
 
-	Every now and then we ask ourselves about design decision we're about to make. Not only it raises the awareness of how we're structuring our project but also gives everyone a chance to contribute to ideas, sometimes to have a long debate on how to do a thing but it hasn't been counter-productive at any time. Usually we agree to disagree but choose pragmatic approach anyway. 
+	Every now and then we ask ourselves about design decision we're about to make. Not only does it raise awareness of how we're structuring our project but it also gives everyone a chance to contribute ideas. Granted, it sometimes leads to a long debate on how to implement something but it hasn't been counter-productive at any time. Usually we agree to disagree and choose a pragmatic approach to push the project forward.
 
 * quality of work we do
 
-	Every sprint end is an opportunity to have a retrospective and to talk about good and bad things in a sprint. If the team feels secure enough and is open - this is a perfect opportunity to exchange feedback about the way we do things and an opportunity to develop ourselves. It may be obvious but teams can benefit a lot from these retrospectives if conducted properly. We used this chance couple of times to make ourselves more efficient and effective.
+	The end of each sprint is an opportunity to carry out a retrospective and to talk about good and bad things that happened. If the team feels secure enough and is open this is a perfect time to exchange feedback about the way we do things and an opportunity to develop ourselves. It may be obvious, but teams can benefit a lot from these retrospectives if conducted properly. We used this chance a number of times to make ourselves more efficient and effective.
 
-We started to use feedback extensively after internal training sessions we had at our company. Being skeptical about such I have to say - they gave us a lot. Feedback is like other things - if you want to get better at it - you have to practice. Training gave us insight on how we were making it and how we *want* to do it. Practice after it - taught us also how much we can benefit from it. 
+We started using feedback extensively after internal training sessions we had at our company. Being skeptical about such intiatives I have to say - they gave us a lot. Feedback is like other things - if you want to get better at it you have to practice. Training gave us insight on how we were doing it and how we *want* to do it. Practice after it taught us also how much we can benefit from it.
 
 Practices & Small Habits
 ---
