@@ -50,7 +50,7 @@ We're definitely knowledge oriented team - everyone wants to know the newest, sh
 
 If you use some of them to improve your skills - you'll have fun learning and you will be proud of getting better. In various amounts we tried everything above and it's definitely making us happier!
 
-Part of the fun is also sharing your knowledge inside the team as often as possible. Starting from 15-minutes 'sessions' on a tiny topic to the month (with almost one session a day) dedicated to sharing knowledge among the whole organization - it's important to make a room for it and promote it.
+Part of the fun is also sharing your knowledge inside the team as often as possible. It can be 15 minutes session on a tiny topic, full hour or half a day workshop. It's important to make a room for it and promote it. Even the smallest form of knowledge sharing is beneficial.
 
 One step further is also going out and trying to present at meetups, conferences, universities. That also gives you another boost of motivation to understand the topic better, deeper and makes you happier because you share your knowledge with someone. Our team members are speakers at many places, I see how valuable and exciting it is for us.
 
