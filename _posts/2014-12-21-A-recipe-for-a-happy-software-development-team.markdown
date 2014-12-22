@@ -28,7 +28,7 @@ Method:
 1. Peel developers from their shells, boil them in uncertainty for a short while. Prepare for a future feedback marinade.
 2. Use fork to shred developers into a green field project without too much control. Leave 'how to proceed' for them to figure out.
 3. Heat the atmosphere to 200C by asking tricky questions and waiting for an explanation of their decisions. Constantly question everything.
-4. When developers are really tender - put them in a saucepan and mix project work with knowledge sharing on many fields - internal at a company, universities, meetups and conferences. 
+4. When developers are really tender - put them in a saucepan and mix project work with knowledge sharing on many fields - work, universities, meetups and conferences. 
 5. Pull from the saucepan, dry, cover tightly with foil to protect from too much enterprise and bake for another month or two.
 6. Top with a spoonful of team initiatives and team building exercises.
 7. Serve developers to Product Owners for successful projects and fruitful cooperation.
