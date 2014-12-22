@@ -98,7 +98,7 @@ In a more structured way we use it for:
 
 	The end of each sprint is an opportunity to carry out a retrospective and to talk about good and bad things that happened. If the team feels secure enough and is open this is a perfect time to exchange feedback about the way we do things and an opportunity to develop ourselves. It may be obvious, but teams can benefit a lot from these retrospectives if conducted properly. We used this chance a number of times to make ourselves more efficient and effective.
 
-We started using feedback extensively after internal training sessions we had at our company. Being skeptical about such intiatives I have to say - they gave us a lot. Feedback is like other things - if you want to get better at it you have to practice. Training gave us insight on how we were doing it and how we *want* to do it. Practice after it taught us also how much we can benefit from it.
+We started using feedback extensively after internal training sessions we had at our company. Being skeptical about such initiatives I have to say - they gave us a lot. Feedback is like other things - if you want to get better at it you have to practice. Training gave us insight on how we were doing it and how we *want* to do it. Practice after it taught us also how much we can benefit from it.
 
 Practices & Small Habits
 ---
