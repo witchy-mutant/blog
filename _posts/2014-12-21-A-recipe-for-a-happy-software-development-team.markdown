@@ -58,26 +58,26 @@ One step further is also leaving the comfort of your own office and talking at m
 Initiative
 ---
 
-Initiative is both having an idea and motivation to make it happen. If your organization doesn't interrupt or even help - you can do a lot! Here's couple of ideas we had:
+Initiative is both having an idea and motivation to make it happen. If your organization doesn't interrupt or (if you're lucky) even helps you along the way - you can do a lot! Here's couple of ideas we had:
 
 * WebDev Guild
 
-	Inspired by Spotify culture one of our team mates started this internal but cross-organization group - to share knowledge about web development on a regular basis.
+	Inspired by Spotify culture, one of our team mates started this internal, but cross-team group to share knowledge about web development on a regular basis.
 
 * [dev@LDZ](http://www.meetup.com/dev-LDZ/)
 
-	We started a meetup group in Łódź just because we wanted to have a broader discussion about software development, not necessarily bounded to one language or platform. Also because we love community and wanted to meet, discuss, share opinions with like-minded people.
+	We started a meetup group in Łódź just because we wanted to have a broader discussion about software development, not necessarily bounded to one language or platform. Also because we love the dev community and wanted to meet, discuss and share opinions with like-minded people.
 
 * [Dashboard](https://github.com/senssei/kitchen-dashboard)
 
-	There is this big screen in our kitchen. How can we use it? Let's try [Dashing](http://dashing.io)! It's Ruby and CoffeeScript so - an opportunity to leave the comfort zone and try something else. This project started as part of WebDev Guild initiative.
+	There is this big screen in our kitchen. How can we use it? Let's try [Dashing](http://dashing.io)! It's in Ruby on Rails and CoffeeScript, so what a great opportunity to leave our comfort zone and try something else. This project started as part of the WebDev Guild initiative.
 
-Those initiatives come from ourselves and guess what - we're happy to do it because it brings an excitement of creating.
+Those initiatives were all born inside our team and we're happy to do them because they bring an excitement of creating.
 
 Agility
 ---
 
-Not only Agile methodologies kind of worked for us when it comes to project work (mostly sprint organization with clear time frame and delivering working software all the time) but also technology agility - this team is working with C#, VB.NET, Javascript (AngularJS and other libraries), iOS (Objective-C with a bit of Swift). Learning new things is part of the process, part of the game and it gives us fun as well.
+Not only Agile methodologies kind of worked for us when it comes to project work (we're mostly a Scrum organization with clear time frames and delivering working software all the time) but also technology agility - this team is working with C#, VB.NET, Javascript (AngularJS and other libraries), iOS (Objective-C with a bit of Swift) and even some PHP/MySQL lately (who would have thought?). Learning new things is part of the process, part of the game and it gives us fun as well.
 
 Feedback
 ---
