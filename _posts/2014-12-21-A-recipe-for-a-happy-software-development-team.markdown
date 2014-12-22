@@ -76,7 +76,7 @@ Those initiatives were all born inside our team and we're happy to do them becau
 Agility
 ---
 
-Not only Agile methodologies kind of worked for us when it comes to project work (mostly sprint organization with clear time frame and delivering working software all the time) but also technology agility - this team is working with C#, VB.NET, Javascript (AngularJS and other libraries), iOS (Objective-C with a bit of Swift). Learning new things is part of the process, part of the game and it gives us fun as well.
+Not only Agile methodologies kind of worked for us when it comes to project work (we're mostly a Scrum organization with clear time frames and delivering working software all the time) but also technology agility - this team is working with C#, VB.NET, Javascript (AngularJS and other libraries), iOS (Objective-C with a bit of Swift) and even some PHP/MySQL lately (who would have thought?). Learning new things is part of the process, part of the game and it gives us fun as well.
 
 Feedback
 ---
