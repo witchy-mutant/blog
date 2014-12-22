@@ -38,21 +38,21 @@ This recipe worked **for our team**. This means - some of this may work for you.
 Knowledge
 ---
 
-We're definitely knowledge oriented team - everyone wants to know the newest, shiniest thing but also get better in languages, frameworks and tools he's using at the moment. I don't know if this comes from an attitude or can it be taught but if you have it - there are obvious ways to sharpen your saw:
+We're definitely a knowledge oriented team - everyone wants to know the newest, shiniest thing but also get better in languages, frameworks and tools we're using at the moment. I don't know if this comes from attitude or whether it can be taught but if you have it - there are obvious ways to sharpen your saw:
 
 * having a pet project
 * reading programming books
-* reading blogs and writing an own blog
+* reading blogs and writing your own blog
 * taking online courses
 * taking traditional classes
 * attending meetups
 * attending conferences 
 
-If you use some of them to improve your skills - you'll have fun learning and you will be proud of getting better. In various amounts we tried everything above and it's definitely making us happier!
+If you use some of the above to improve your skills you'll have fun learning and you will be proud of getting better. We've tried everything from this list in varying amounts and it definitely made us happier!
 
 Part of the fun is also sharing your knowledge inside the team as often as possible. It can be 15 minutes session on a tiny topic, full hour or half a day workshop. It's important to make a room for it and promote it. Even the smallest form of knowledge sharing is beneficial.
 
-One step further is also going out and trying to present at meetups, conferences, universities. That also gives you another boost of motivation to understand the topic better, deeper and makes you happier because you share your knowledge with someone. Our team members are speakers at many places, I see how valuable and exciting it is for us.
+One step further is also leaving the comfort of your own office and talking at meetups, conferences, universities. That also gives you another boost of motivation to understand the topic better, deeper and makes you happier because you share your knowledge with someone. Our team members are speaking at many events and they find it very exciting and valuable.
 
 
 Initiative
