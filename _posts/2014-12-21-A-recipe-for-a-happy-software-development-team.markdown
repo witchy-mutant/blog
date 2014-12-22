@@ -141,7 +141,7 @@ There are even more ideas than those above and new ones come up quite often. Onc
 
 Who are *we* by the way? Go and check yourself those great guys I love working with:
 
-* [Rafał "Raf" Legiędź](http://twitter.com/rafek)
+* [Rafał "rafek" Legiędź](http://twitter.com/rafek)
 * [Kuba "Jay" Waliński](http://twitter.com/kubawalinski)
 * [Rafał "Senssei" Warzycha](http://twitter.com/rwarzycha)
 * [Marcin "Biegał" Biegała](http://twitter.com/biegal)
