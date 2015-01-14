@@ -10,14 +10,17 @@ We decided to dedicate one day a month to learn completely new technology, all m
 Things we touched during this day are for example:
 
   * creating a [PR](https://github.com/angular/angular.js/pull/10733) for AngularJS
-  * understanding Ionic Framework better
-  * seeing how to create iOS 8 CocoaTouch framework
+  * understanding Ionic Framework better, using it to build an app using Ionic Creator
+  * seeing how to create *iOS 8 CocoaTouch framework* (called also *iOS Universal Framework*)
   * playing with WebSharper to create [a web project](https://github.com/mihcall/confSpeakers)
-  * playing with Yeogurt - React, Flux, Node, ...
-  * understanding React more for [DevAgenda](https://github.com/scrcrw/DevAgenda) project
-  * having *fun* with [FunScript](http://funscript.info/)
+  * Fullstack JS - playing with Yeogurt - React, Flux, Node, Backbone... lots of things...
+  * understanding ReactJS more for [DevAgenda](https://github.com/scrcrw/DevAgenda) project
+  * having *fun* with [FunScript](http://funscript.info/) - [Maciek](https://twitter.com/eldsharp)
+  * NancyFx with F#
+  * playing with [Freya](https://github.com/freya-fs/freya) framework
 
-Some of them resulted in creating workable solutions, some of them were a pure learning excercise.
+
+Some of them resulted in creating workable solutions, some of them were a pure learning excercises.
 
 I managed to build very simple web app using F# and [WebSharper](http://websharper.com). I tried to write a summary during the day. [Here it is](https://github.com/mihcall/confSpeakers/blob/master/SUMMARY.md).
 
@@ -25,7 +28,7 @@ I have to say - for me this experiment worked extremely well. I got excited that
 
 I would encourage every team to do yourself a favor and **spend just one day to learn something new**. 
 
-Tomorrow we'll have a session on what we learned and *of course* a round of feedback on how to make it better the next time.
+Tomorrow we'll have a session on what we learned and *of course* a round of feedback on how to make it better next time.
 
 I'll update this post after I learn what other members of our team have achieved!
 
