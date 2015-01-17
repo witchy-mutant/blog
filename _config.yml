@@ -2,7 +2,7 @@ name: "If (NotNow) { return when(); }"
 author: mihcall
 fullname: Michał Śliwoń
 markdown: rdiscount
-pygments: true
+highlighter: "pygments"
 encoding: "utf-8"
 permalink: /:year/:month/:day/:title/
 
