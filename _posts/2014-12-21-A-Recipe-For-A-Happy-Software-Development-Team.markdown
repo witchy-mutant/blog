@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 	"A recipe for a happy software development team"
+title: 	"A Recipe For A Happy Software Development Team"
 date: 	2014-12-21 23:30:00
 tags: [scrcrw, team]
 categories: [scrcrw]
