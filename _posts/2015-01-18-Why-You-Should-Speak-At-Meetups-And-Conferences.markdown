@@ -6,6 +6,8 @@ tags: [speaking, conferences, meetups]
 categories: [scrcrw]
 ---
 
+*This post was updated on 19th to reflect the feedback and suggestions I got from my team.*
+
 For those of you scared or reluctant to present at meetups and conferences: Speak up! I'd like to listen to You.
 
 Software developers are not eager to present for various reasons but there are at least few why they should start or present more often.
@@ -19,17 +21,22 @@ We work in an environment requiring constant learning, simply capturing this pro
 Speaking experts, speaking beginners 
 --
 
-Experts or creators may be not the best speakers. I have seen presentations delivered by software framework creators or subject matter experts that were simply boring. Additionally there were on the level *anybody* could present. Being an expert doesn't mean your presentation will be the most interesting and informational.
+Experts or creators may be not the best speakers. I have seen presentations delivered by software framework creators or subject matter experts that were simply boring. Additionally there were on the level *anybody* could present. Being an expert doesn't mean your presentation will be the most interesting and/or informational.
 
 On the other hand, I have attended presentations given by people *only using* some technology (sometimes not even extensively) but who could present it in a way the first thing I wanted to do after leaving the room, was to open my notebook and start playing with it.
 
-However if you want to be an expert, you don't have to be an expert on general *software development and life*, you can find yourself a tiny topic you'd be good at. You can be the expert on this tiny thing. Still I'd be interested in listenint to your story.
+However if you want to be an expert, you don't have to be an expert on general *software development and life*, you can find yourself a tiny topic you'd be good at. You can be the expert on this tiny thing. Still I'd be interested in listening to your story.
 
 Being a beginner have the advantage of knowing *beginner problems* and most of your audience will be beginners, that's why they attend your presentation - they want to learn something they're not so familiar with. You can share "how it's like" to start working with particular technology, your personal gut feeling about it. Your honesty and genuineness will give your audience a confidence to ask questions, not always appearing while listening to an expert.
 
-Lastly it is your opinion and perspective which makes a talk interesting. Even being less knowledgeable about the subject than your audience, you can present it in a way that will inspire people to look from a different angle at it.
+Lastly it is your opinion and perspective which makes a talk interesting. Even being less knowledgeable about the subject than your audience, you can present it in a way that will inspire people to look at it from a different angle. Don't be afraid of being opinionated, even experts are. Just be honest about what's your opinion and what's The Absolute Truth.
 
-So once again - you don't have to be an expert on the subject, you just have to be passionate about it. 
+Once again - you don't have to be an expert on the subject, you just have to be passionate about it. 
+
+Content or fun
+--
+
+This is false dichotomy. Informational sessions don't have to be boring, entertaining sessions don't have to be treating subject lightly. Consider the fact that you probably won't teach people a lot in less than an hour (you have to leave yourself time for questions even if your time slot is a full hour). If you're at a conference, there must be something in your talk which makes your audience remember it. You have to be attractive either by *interesting* content (not necessarily *complicated*) or presenting it *interestingly*. After the whole day of sessions only *some things* stay in memory - you need to take care that the most important part stays so that people want to go back to the subject.
 
 There's no them, there's only us
 --
@@ -38,10 +45,14 @@ Looking at conferences lineups few years ago I was pretty sure there are only bo
 
 Conferences and meetups are places for everybody. Especially bigger conferences will have some really **big** names but also a lot of newcomers, lot of *ordinary* guys speaking about something interesting and/or interestingly.
 
+Can I present my subjective opinion? Of course! There's no one authorative way of doing things... almost always. You don't have to be afraid of being wrong, the worst thing which can happen is - people will correct you and *you* will learn from it. Bad deal?
+
 Language
 --
 
-For some people, language is a barrier. We live in an English spoken culture and there's little we can do about it. Except for learning. And practicing. Even if you're at some reasonable level of your English language skills (you can understand people around you) speaking freely for an hour so that people want to listen to you requires a lot of practice. What would be the best way to practice English in a long, well-structured speech - a conference or a meetup talk, exactly. That's a great way to practice.
+For some people, language is a barrier. Internationally we live in an English spoken culture and there's little we can do about. Except for learning. And practicing. Even if you're at some reasonable level of your English language skills (you can understand people around you) speaking freely for an hour so that people want to listen to you requires a lot of practice. What would be the best way to practice English in a long, well-structured speech - a conference or a meetup talk, exactly. That's a great way to practice.
+
+Most of the conferences are in English. If don't feel like submitting to conferences yet and you want to try at your local meetup, try suggesting doing it in English. It will feel weird but it's a great way to practice among people you know who can give you valuable feedback and tell you what needs to be improved.
 
 You learn a lot
 --
@@ -56,6 +67,13 @@ Stimulating the community
 Community is everywhere, I bet it is in your city as well, you don't have to be in ["Magic City of Tech Genius"](https://the-pastry-box-project.net/ed-finkler/2014-january-6). Speaking at local meetup, local conference is one of the ways to stimulate this community. It gives it opportunity to discuss things, it makes it better.
 
 I'm there trying to attend as much as I can, I'd love to listen to You!
+
+It all has been presented already
+--
+
+Even if it's true (which it isn't - it hasn't been presented yet if it hasn't been presented *by you*) - what's wrong with that? You're presenting your own view to the particular audience in a particular place at a particular time. It cannot be repeated and you don't know yet what discussion will you bring after (which can be even more beneficial than the talk itself). You don't know that before you try. 
+
+Think about your community once again, there's really a lot of value in doing a talk at local meetup or conference because this is dedication of your time and effort to this group. I will appreciate if you come to my place and talk to me about the stuff you're interested in. It'll be more valuable than watching this online and search for *the best* of the talks on this subject. I'd like to listen to *your* point of view. I'd like to discuss it **with you and others in this group**.
 
 Practice
 --
@@ -77,3 +95,6 @@ I would like to visit some User Groups in Poland as well. [Białystok .NET](http
 Now it's time for you so **go ahead** and [submit your proposals](https://calltospeakers.com/)!
 
 Hopefully see you there!
+
+*In some next blog post I'll try to share my experience: how to start, how to prepare (whatever worked for me) but for now I'll repeat that there's great content on this already: [Scott's video if you have Pluralsight subscription](http://speakinghacks.com/) and [free-of-charge brilliant website by Zach Holman](http://speaking.io/) dealing also with 'how to start'.*
+
