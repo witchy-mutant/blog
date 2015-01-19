@@ -74,6 +74,6 @@ I have a plan to submit to conferences I admire for years: [Øredev](http://ored
 
 I would like to visit some User Groups in Poland as well. [Białystok .NET](https://www.facebook.com/groups/bstoknet/) is my favourite from 2014 because guys running it simply rock! I also started [dev@LDZ](http://www.meetup.com/dev-LDZ/) user group with [my team](http://blog.mihcall.com/2014/12/21/A-recipe-for-a-happy-software-development-team/) and at some point of time I will speak there as well.
 
-Now it's time for you so **go ahead** and submit your proposals!
+Now it's time for you so **go ahead** and [submit your proposals](https://calltospeakers.com/)!
 
 Hopefully see you there!
