@@ -40,7 +40,7 @@ Looking at conference lineups few years ago I was pretty sure there are only boo
 
 Conferences and meetups are places for everybody. Especially bigger conferences will have some really **big** names but also a lot of newcomers, lot of *ordinary* guys speaking about something interesting and/or interestingly.
 
-Can I present my subjective opinion? Of course! There's no one authorative way of doing things... almost never. You don't have to be afraid of being wrong, the worst thing which can happen is - people will correct you and *you* will learn from it. Bad deal?
+Can I present my subjective opinion? Of course! There's no one authoritative way of doing things... almost never. You don't have to be afraid of being wrong, the worst thing which can happen is - people will correct you and *you* will learn from it. Bad deal?
 
 Your audience is your friend
 --
@@ -91,19 +91,21 @@ Think about your community once again, there's really a lot of value in doing a 
 What am I doing among all these men?
 --
 
-Women - you're still underrepresented in our industry. It doesn't mean you have to be underrepresented at local meetups or conferences. It'll be great to hear you! If you prefer more women-oriented group first - please try [GeekGirlsCarrots](http://geekgirlscarrots.pl), [Women in Technology](http://womenintechnology.pl) or similar groups in your country.
+Women - you're still underrepresented in our industry. It doesn't mean you have to be underrepresented at local meetups or conferences. It'll be great to listen to you! If you prefer more women-oriented groups first - please try [GeekGirlsCarrots](http://geekgirlscarrots.pl), [Women in Technology](http://womenintechnology.pl) or similar groups in your country.
 
-I'd be strongly encouraging you to speak up at your local meetup, believe me - it's full of supporting geeks who'd like to hear you. I'm running [dev@LDZ](https://meetup.com/dev-LDZ/) and there's for sure a place for you!
+I strongly encourage you to speak up at your local meetup, believe me - it's full of supporting geeks. I'm running [dev@LDZ](https://meetup.com/dev-LDZ/) meetup and I welcome you with my arms wide open as a speaker and attendee!
 
-Try out conferences, I've been to many - they're full of great people and the atmosphere is 
+Try out conferences too, I've been to many - they're full of great people and the atmosphere can be really amazing. Don't hesitate to send your proposals to conference "Call For Papers".
+
+Men - if you have girl friend who is reluctant to speak in public - please tell her that you'd like to listen to her, let us be at least two wanting more women at meetups and conferences!
 
 Practice
 --
 You have to spend a lot of hours in preparation and practice. There's no other way but it pays off. There is a significant difference between speakers preparing for the talk and those who treat it a bit lightly. There are very few speakers with such an enormous talent they don't have to prepare. Most of the brilliant talks I've listened to were the result of practicing... a lot!
 
-It doesn't mean that it's a kind of exam, you'll be making mistakes from time to time (everybody does), use your notes or slides to help yourself, it's nothing bad.
+It doesn't mean it's a kind of exam, you'll be making mistakes from time to time (everybody does), use your notes or slides to help yourself, it's nothing bad. Practice your talk but let yourself be imperfect.
 
-Remember that [Steve Jobs and Winston Churchill didn't start out as great speakers](http://www.forbes.com/sites/carminegallo/2014/11/25/steve-jobs-and-winston-churchill-didnt-start-out-as-great-speakers/). Assume it will take time to learn it properly.
+Remember that [Steve Jobs and Winston Churchill didn't start out as great speakers](http://www.forbes.com/sites/carminegallo/2014/11/25/steve-jobs-and-winston-churchill-didnt-start-out-as-great-speakers/). Assume it will take time to learn it.
 
 There are plenty of resources on how to be a better speaker. I would start with [Scott's video](http://speakinghacks.com/). There is also a great [website from Zach Holman](http://speaking.io/) on this subject as well. [Gojko Adzic talks about this subject on his blog.](http://gojko.net/2013/01/24/how-to-deliver-a-killer-presentation/)
 
@@ -123,4 +125,3 @@ Now it's time for you so **go ahead** and [submit your proposals](https://callto
 Hopefully see you there!
 
 *In some next blog post I'll try to share my experience: how to start, how to prepare (whatever worked for me) but for now I'll repeat that there's great content on this already: [Scott's video if you have Pluralsight subscription](http://speakinghacks.com/) and [free-of-charge brilliant website by Zach Holman](http://speaking.io/) dealing also with 'how to start'.*
-
