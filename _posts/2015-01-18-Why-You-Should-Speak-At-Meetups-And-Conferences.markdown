@@ -44,9 +44,11 @@ Can I present my subjective opinion? Of course! There's no one authorative way o
 
 Your audience is your friend
 --
-[Enrico](https://twitter.com/ecampidoglio) made it excellent: "Your audience keeps its fingers crossed so that you perform well." (*wording was different probably*).
+[Enrico](https://twitter.com/ecampidoglio) made it excellent: "Your audience keeps its fingers crossed for you."
 
-They invested their time to listen to you, they're with you from the very beginning of your talk. They're not there to judge you, they are interested in what you have to say. Some of them are your friends, you'll talk with them after the talk.
+They invested their time to listen to you, they are supporters. They're not there to judge you, find inconsistencies in your arguments or reveal holes in your knowledge, they are interested in what you have to say. Some of them are your good friends, some of them may become ones if you continue discussion after your talk in more relaxed atmosphere. Don't be scared of your audience - embrace it! There may be a lot of wonderful people among them.
+
+Are you nervous? Don't worry, it's normal. Remember experts? They're stressed as well. Everybody has to overcome it. Sometimes it disappears magically after some time. Sometimes you have to do some tricks to overcome it but satisfaction after leaving it behind you is priceless.
 
 Content or fun
 --
@@ -86,20 +88,33 @@ Even if it's true (which it isn't - it hasn't been presented yet if it hasn't be
 
 Think about your community once again, there's really a lot of value in doing a talk at local meetup or conference because this is dedication of your time and effort to this group. I will appreciate if you come to my place and talk to me about the stuff you're interested in. It'll be more valuable than watching this online and search for *the best* of the talks on this subject. I'd like to listen to *your* point of view. I'd like to discuss it **with you and others in this group**.
 
+What am I doing among all these men?
+--
+
+Women - you're still underrepresented in our industry. It doesn't mean you have to be underrepresented at local meetups or conferences. It'll be great to hear you! If you prefer more women-oriented group first - please try [GeekGirlsCarrots](http://geekgirlscarrots.pl), [Women in Technology](http://womenintechnology.pl) or similar groups in your country.
+
+I'd be strongly encouraging you to speak up at your local meetup, believe me - it's full of supporting geeks who'd like to hear you. I'm running [dev@LDZ](https://meetup.com/dev-LDZ/) and there's for sure a place for you!
+
+Try out conferences, I've been to many - they're full of great people and the atmosphere is 
+
 Practice
 --
 You have to spend a lot of hours in preparation and practice. There's no other way but it pays off. There is a significant difference between speakers preparing for the talk and those who treat it a bit lightly. There are very few speakers with such an enormous talent they don't have to prepare. Most of the brilliant talks I've listened to were the result of practicing... a lot!
 
+It doesn't mean that it's a kind of exam, you'll be making mistakes from time to time (everybody does), use your notes or slides to help yourself, it's nothing bad.
+
 Remember that [Steve Jobs and Winston Churchill didn't start out as great speakers](http://www.forbes.com/sites/carminegallo/2014/11/25/steve-jobs-and-winston-churchill-didnt-start-out-as-great-speakers/). Assume it will take time to learn it properly.
 
-There are plenty of resources on how to be a better speaker. I would start with [Scott's video](http://speakinghacks.com/). There is also a great [website from Zach Holman](http://speaking.io/) on this subject as well.
+There are plenty of resources on how to be a better speaker. I would start with [Scott's video](http://speakinghacks.com/). There is also a great [website from Zach Holman](http://speaking.io/) on this subject as well. [Gojko Adzic talks about this subject on his blog.](http://gojko.net/2013/01/24/how-to-deliver-a-killer-presentation/)
 
 After reading those and many other resources, it's all about practicing. Start early, start small, somewhere around you there is a group willing to listen to you, be it your team at work or a local meetup group. Maybe suggest you'll present at the next meeting?
+
+There's also a whole movement dedicated to public speaking - [Toastmasters](http://www.toastmasters.pl). There may be a group near you at which you can practice your skills in a friendly atmosphere.
 
 It's time for You
 --
 
-I have a plan to submit to conferences I admire for years: [Øredev](http://oredev.org), [NDC Oslo](http://ndcoslo.com), [NDC London](http://ndc-london.com) and [BuildStuff](http://buildstuff.lt). I've already submitted two talks to NDC Oslo.
+I have a plan to submit to conferences I've been admiring for years: [Øredev](http://oredev.org), [NDC Oslo](http://ndcoslo.com), [NDC London](http://ndc-london.com) and [BuildStuff](http://buildstuff.lt). I've already submitted two talks to NDC Oslo.
 
 I would like to visit some User Groups in Poland as well. [Białystok .NET](https://www.facebook.com/groups/bstoknet/) is my favourite from 2014 because guys running it simply rock! I also started [dev@LDZ](http://www.meetup.com/dev-LDZ/) user group with [my team](http://blog.mihcall.com/2014/12/21/A-recipe-for-a-happy-software-development-team/) and at some point in time I will speak there as well.
 
