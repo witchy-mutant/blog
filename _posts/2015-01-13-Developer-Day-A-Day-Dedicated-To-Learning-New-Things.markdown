@@ -3,6 +3,7 @@ layout: post
 title: 	"Developer Day - A Day Dedicated To Learning New Things"
 date: 	2015-01-13 23:30:00
 tags: [team, scrcrw, developer-day, treat-yourself]
+summary: "We decided to dedicate one day a month to learn completely new technology, all members of our team."
 categories: [scrcrw]
 ---
 We decided to dedicate one day a month to learn completely new technology, all members of [our team](/2014/12/21/A-recipe-for-a-happy-software-development-team/). We called it "developer day" - it's quite similar to [DevDay](http://devday.pl) in terms of that it's meant to be a fest for us. It's really **all about learning**.

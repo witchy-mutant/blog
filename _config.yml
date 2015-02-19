@@ -1,16 +1,28 @@
-name: "Michał Śliwoń blog"
+name: "mihcall's blog"
+title: "mihcall's blog"
+email: m.sliwon@gmail.com
 author: Michał Śliwoń
+description: "mihcall's blog"
 fullname: Michał Śliwoń
-markdown: rdiscount
+
+google_analytics:
+
+markdown: redcarpet
+redcarpet:
+    extensions: ['smart', 'tables', 'with_toc_data']
+sass:
+    compressed: true
+paginate: 10
 highlighter: "pygments"
 encoding: "utf-8"
 permalink: /:year/:month/:day/:title/
 
-rdiscount:
-  extensions: [smart]
+baseurl:     ""
+url: "http://blog.mihcall.com"
 
-url: http://blog.mihcall.com
-description: My blog
-twitter: mihcall
-github: mihcall
+show_social_icons: true
+twitter_username: mihcall
+github_username: mihcall
 gravatar_url: http://www.gravatar.com/avatar/4fb1ca49c9dca9afe96bec2be2a28aa9
+
+show_post_footers: true

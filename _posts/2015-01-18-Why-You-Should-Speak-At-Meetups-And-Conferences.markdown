@@ -3,6 +3,7 @@ layout: post
 title: 	"Why You Should Speak At Meetups And Conferences"
 date: 	2015-01-18 13:00:00
 tags: [speaking, conferences, meetups]
+summary: "For those of you scared or reluctant to present at meetups and conferences: Speak up! I'd like to listen to you."
 categories: [scrcrw]
 ---
 

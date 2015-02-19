@@ -2,6 +2,7 @@
 layout: post
 title: 	"Passion makes the world go round"
 date: 	2014-05-18 14:00
+summary: "Story about DevDay and how passion helped in making it happen."
 tags: [devday, passion]
 ---
 

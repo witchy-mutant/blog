@@ -3,6 +3,7 @@ layout: post
 title: 	"A Recipe For A Happy Software Development Team"
 date: 	2014-12-21 23:30:00
 tags: [scrcrw, team]
+summary: "I am happy and proud to be a part of a wonderful team at the moment which was formed in only couple of months. I wanted to share some ideas and practices which made us more happy as developers."
 categories: [scrcrw]
 ---
 I am happy and proud to be a part of a wonderful team at the moment which was formed in only couple of months. I wanted to share some ideas and practices which made us more happy as developers.
