@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 	"My Dream Job"
-date: 	2016-01-04
+date: 	2016-01-08
 summary: "I like to think about characteristics of a dream job and what it means to me. What would it be like, how would I feel doing it. This helps me understand what should I pursue or how should I influence my current environment to be closer to this ideal."
 ---
 I like to think about characteristics of a dream job and what it means to me. What would it be like, how would I feel doing it. This helps me understand what should I pursue or how should I influence my current environment to be closer to this ideal.
@@ -37,7 +37,7 @@ I may be this kind of an animal that works quite good when given a lot of freedo
 
 I feel I don't need a boss anymore. I am ready to plan my self-development. I am ready to choose directions for a company I'm a part of. And by the definition of the work I'm doing I would rather people get out of my way than distract me with their managers' duties.
 
-I had good managers which helped me to develop myself but I think I reached the point I would rather direct myself.
+I had good managers who helped me to develop myself but I think I reached the point I would rather set the direction myself.
 
 I know there are always clients who are demanding and there are peers from which I can learn, I'm talking line managers here.
 
@@ -47,7 +47,7 @@ I was really amazed after watching movie [Jiro Dreams Of Sushi](http://www.imdb.
 
 And I'm probably wrong here, there are *countless* ways of getting there.
 
-It's important though that job supports it and rewards it. One reward that comes to my mind is that you build better products/tools because of a deeper knowledge you have.
+It's important though that job supports self-development and rewards it. One reward that comes to my mind is that you are encouraged and allowed to build better products/tools because of a deeper or wider knowledge you have.
 
 4. Inspiring people & supportive team
 ---
@@ -67,6 +67,8 @@ How it should be done, what proportions of praise to critique should be used, wh
 ---
 One aspect of feedback is recogniition for what I am doing. Creating products which are well received by users or creating code which is well received by your peers will have a postive effect on your job satisfaction. At least it has a positive effect on me.
 
+Sometimes all you need is a tap on a shoulder by your peer but it's also great if your users love your product! In my dream job users love my product.
+
 7. Money
 ---
 I realised many of the thoughts I put into this post are perfectly embodied in a short video about motivation I got to watch time ago. It also brilliantly summarises how I perceive money as a motivator: **"The best use of money as a motivator is to pay people enough to take the issue of money off the table."** from ["Drive: The surprising truth about what motivates us"](https://www.youtube.com/watch?v=u6XAPnuFjJc). Please go and watch this video simply because it's brilliant and summarises the subject much better than I'm doing it here.
@@ -75,9 +77,13 @@ I realised many of the thoughts I put into this post are perfectly embodied in a
 ---
 My dream job is not 9-5 but with flexible hours. It's remote-first which means it's remote if you want it to and creates opportunities to meet physically whenever needed.
 
+In my dream job you're the one to decide on what hardware you're using and how your workplace looks like.
+
 9. Challenges
 ---
 Solving problems is extremely satisfying because it leads to better understanding of the world. It also proves your smarts so lot of people seek challenges in their job. I also like how it stimulates many parts of the brain.
+
+If it hadn't been for complex and interesting problems you can solve at your job I wouldn't be at IT probably. It's important to have this intellectual stimulation constantly.
 
 10. Fun, happiness and passion
 ---
@@ -89,5 +95,4 @@ Summary
 ---
 So is my current environment a perfect one? I hope it'll never be perfect so I have a motivation to improve it. It's giving me a lot of reasons to be happy though.
 
-I wish you find your dream job. It's a journey on which you have to define what it means to you. You can change your current job or you can change *things at* your current job. This alone can be satisfying, even if your job will never be perfect. Enjoy this journey!
-
+I wish you find your dream job. It's a journey on which you have to define what it means to you. You can change your current job or you can change *things at* your current job. This alone can be satisfying, even if your job will never be perfect. Enjoy this journey! Let me know how it went!
