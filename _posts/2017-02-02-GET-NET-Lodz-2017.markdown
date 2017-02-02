@@ -1,0 +1,23 @@
+---
+layout: post
+title: 	"GET.NET Łódź 2017"
+date: 	2017-02-02
+summary: "I love conferences and I love Łódź, that's why I'm helping to organise GET.NET Łódź 2017."
+---
+I love conferences. Attending them, speaking at them and organising them. I feel addicted to the atmosphere of *the fest*. Talking to other like-minded people, sharing our knowledge and experience, feeling the vibe of the community.
+
+I also love Łódź, I lived there for 6 years. This is one of the most interesting cities in Poland and I love coming back.
+
+So, that's why I am so happy to be helping to organise [GET.NET Łódź 2017](https://konferencjaget.net/en/lodz)!
+![GET.NET](/images/GETNET.jpg)
+
+I was a speaker at this conference in 2014, I helped a little in 2015, and now I'm returning with responsibility for this year's Łódź edition programme.
+
+I would like to invite you to this great conference; it's happening on the 22nd of April and the team of organisers is doing everything it can to make it a real dev fest!
+
+If you feel like sharing your knowledge with others, the Call For Papers is opening very soon! It should be announced [on the official conference website](https://konferencjaget.net/en/lodz).
+
+I honestly hope to see you and talk to you in Łódź at #GETNET.
+
+*Perhaps you'd also like to run [a marathon, or maybe 10k](http://www.lodzmaraton.pl/), the next day? :)*
+
