@@ -1,4 +1,4 @@
-name: "mihcall's blog"
+aame: "mihcall's blog"
 title: "mihcall's blog"
 email: m.sliwon@gmail.com
 author: Michał Śliwoń
@@ -9,7 +9,7 @@ google_analytics: true
 
 gems: [jekyll-paginate]
 
-markdown: redcarpet
+markdown: kramdown
 redcarpet:
     extensions: ['smart', 'tables', 'with_toc_data']
 sass:
