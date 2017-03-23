@@ -4,7 +4,7 @@ title: 	"Goodbye DevDay, Welcome DevConf!"
 date: 	2017-03-23
 summary: "Me and Rafał have been organising DevDay together for 6 years. The time has come to do a new conference completely on our own. We are proud to announce DevConf!"
 ---
-Me and [Rafał](https://twitter.com/rafek) have been organising DevDay together for 6 years. The time has come to do a conference completely on our own.
+[Rafał](https://twitter.com/rafek) and I have been organising DevDay together for 6 years. The time has come to do a conference completely on our own.
 While it's sad we won't be doing DevDay anymore, we're already excited about new possibilities!
 
 Our conference will be based on the principles we believe are the success factors of an excellent software developer's conference:
