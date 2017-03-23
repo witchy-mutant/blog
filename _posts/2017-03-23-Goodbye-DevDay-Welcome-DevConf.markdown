@@ -14,7 +14,7 @@ Our conference will be based on the principles we believe are the success factor
 
 This will be our attempt to [get community inspired](http://blog.mihcall.com/2015/09/30/DevDay-2015/).
 
-We are proud to announce you [DevConf](http://devconf.pl)!
+We are proud to announce to you [DevConf](http://devconf.pl)!
 
 We'd like to continue the best things we already established during organisation of DevDay and take them to the next level. Technology agnostic conference which aims to inspire and gather community together. You can expect high level inspirational talks as well as deep dives into certain subjects, live coding/demo-heavy sessions.
 
