@@ -10,7 +10,7 @@ While it's sad we won't be doing DevDay anymore, we're already excited about new
 Our conference will be based on the principles we believe are the success factors of an excellent software developer's conference:
   * inspiration - regardless of a technology, achieved by exchanging ideas,
   * learning - as a process occuring at talks but also during informal conversations,
-  * focus on people and interactions - conference is about excellent sessions *and* a great networking opportunities, we'd love to provide both.
+  * focus on people and interactions - conference is about excellent sessions *and* great networking opportunities, we'd love to provide both.
 
 This will be our attempt to [get community inspired](http://blog.mihcall.com/2015/09/30/DevDay-2015/).
 
