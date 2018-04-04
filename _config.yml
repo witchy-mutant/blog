@@ -7,7 +7,7 @@ fullname: Michał Śliwoń
 
 google_analytics: true
 
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 markdown: kramdown
 redcarpet:
