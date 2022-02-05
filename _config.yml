@@ -1,9 +1,9 @@
-aame: "mihcall's blog"
-title: "mihcall's blog"
-email: m.sliwon@gmail.com
-author: Michał Śliwoń
-description: "mihcall's blog"
-fullname: Michał Śliwoń
+name: "mutant's blog"
+title: "mutant's blog"
+email: mutant@hey.com
+author: Mutant
+description: "mutant's blog"
+fullname: Mutant
 
 google_analytics: true
 
@@ -20,11 +20,11 @@ encoding: "utf-8"
 permalink: /:year/:month/:day/:title/
 
 baseurl:     ""
-url: "http://blog.mihcall.com"
+url: "http://blog.sliwon.io"
 
 show_social_icons: true
-twitter_username: mihcall
-github_username: mihcall
+twitter_username: mutant_unit
+github_username: witchy-mutant
 gravatar_url: http://www.gravatar.com/avatar/4fb1ca49c9dca9afe96bec2be2a28aa9
 
 show_post_footers: true
